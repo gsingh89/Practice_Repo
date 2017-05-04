@@ -5,6 +5,8 @@ img
 	width: 250px;
 }
 body{
-	background-color: red;
-
+	background-color: cyan;
+}
+ul{
+	font-size: 35px;
 }
